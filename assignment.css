@@ -1,0 +1,73 @@
+.mother{
+  display: grid;
+  justify-content: space-around;
+  grid-template-rows: 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 5%;
+  
+  
+}
+.key{
+  
+}
+.icondiv{
+  margin-left: 85%;
+  justify-content:space-between;
+  display: flex;
+}
+body{
+  background-color: aqua;
+  
+  
+
+  
+}
+
+p{
+  color: black;
+}
+input{
+  width: 50%;
+  height: 30px;
+  border-radius: 12px;
+  margin-left: 22%;
+  border: none;
+  outline: none;
+  padding-left: 10px;
+  
+  
+
+  
+ 
+} 
+h1{
+  margin-left: 38%;
+ margin-bottom: 15px;
+ margin-top: 150px;
+}
+img{
+  border-radius: 50%;
+}
+.jt{
+  border-radius: 100%;
+}
+input{
+  position: relative;
+  border: none;
+  
+}
+.voice{
+  margin-left: 68%;
+  position: absolute;
+  margin-top: 21.4%;
+  z-index: 200;
+}
+.search{
+  position: absolute;
+  margin-top:21.6% ;
+  margin-left: 22.5%;
+  z-index: 200;
+  padding-left: 12px;
+}

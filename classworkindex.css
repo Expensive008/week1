@@ -1,0 +1,63 @@
+.firsthead{
+    color: aqua;
+}
+.secondhead{
+    color: greenyellow;
+}
+.third{
+    color: rgba(0, 0, 0, 0.224);
+}
+
+h3{
+    color: white;
+}
+
+.p1{
+    color: white;
+}
+
+.div3{
+    color: white;
+}
+
+button{
+    color: white;
+    background-color: yellowgreen;
+    width: 300px;
+    border-radius: 5px;
+    margin-right: 20px;
+    height: 40px;
+    border: white;
+    box-shadow: 2px 4px 5px black;
+    
+    
+}
+
+.div1{
+    background-color: white;
+    width: 300px;
+    padding: 15px;
+}
+
+.div2{
+    background-color: aqua;
+    width: 300px;
+    padding: 15px;
+}
+
+.div3{
+    background-color: rgba(0, 255, 255, 0.623);
+    width: 300px;
+    padding: 15px;
+}
+
+.maindiv{
+    padding: 500px;
+    background-color: whitesmoke;
+    width: 350px;
+    border-radius: 5px;
+}
+.ty{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

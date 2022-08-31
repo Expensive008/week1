@@ -1,0 +1,21 @@
+.firstchild{
+    background-color: aqua;
+    padding: 8px;
+    width: 50%;
+}
+.secondchild{
+    background-color: rgba(127, 255, 212, 0.943);
+    padding: 8px;
+    color: white;
+    width: 50%;
+}
+.mother{
+    display: flex;
+    padding-bottom: 10px;
+}
+
+.thirdchild{
+    background-color:gold;
+    padding: 8px;
+    
+} 

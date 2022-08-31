@@ -1,0 +1,60 @@
+.alldivs{
+    margin-left: 40%;
+    background-color: whitesmoke;
+    width: 300px;
+    padding: 30px;
+    margin-top: 10px;
+    padding-top: 60px;
+    border-top-left-radius: ;  
+}
+
+.firsth{
+    color: aqua;
+}
+.secondp{
+    color: greenyellow;
+}
+.firstp{
+    color: rgba(0, 0, 0, 0.224);
+}
+
+.white{
+    color: white;
+}
+
+#enter{
+    color: white;
+    background-color: greenyellow;
+    width: 250px;
+    border-radius: 4px;
+    height: 30px;
+    margin-left: 15px;
+    border: none;
+}
+.three{
+    color: white;
+    
+}
+.two{
+    background-color: aqua;
+    padding: 8px;
+    
+}
+
+.three{
+    background-color: rgba(127, 255, 212, 0.943);
+    padding: 8px;
+    color: white;
+}
+
+.one{
+    background-color: white;
+    padding: 8px;
+}
+#fontfamily{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body{
+    border-radius: 4px;
+}
